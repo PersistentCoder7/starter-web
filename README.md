@@ -16,6 +16,8 @@ This section is all about the deployment
 
 ## How to Contribute
 
+There are multiple ways to contribute
+
 ### Copyright
 
 2020 Prabhu Singh
