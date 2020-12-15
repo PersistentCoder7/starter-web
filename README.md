@@ -15,3 +15,7 @@ Sample website with plenty of files for demos
 This section is all about the deployment
 
 ## How to Contribute
+
+### Copyright
+
+2020 Prabhu Singh
